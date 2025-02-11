@@ -12,12 +12,14 @@ This is my **personal portfolio website**, where I showcase my **projects, skill
 ### 🛠️ Technologies Used  
 - HTML, CSS, JavaScript  
 - React.js (or any framework you're using)  
-- Tailwind CSS / Bootstrap (if used)  
+- Tailwind CSS / Bootstrap  
 
 ### 🚀 Live Demo  
-🔗 [Your Portfolio Website Link] (if hosted)  
+🔗 [my Portfolio Website Link]   
 
 ### 📌 How to Run Locally  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/portfolio-website.git
+LinkedIn: [www.linkedin.com/in/nargis-atayee-3a2317209]
+Email: [nargis.atayee1995@gmail.com]
